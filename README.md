@@ -2,7 +2,7 @@
 This project was focused on applying time series analysis techniques - ARIMA, Deep Learning, and Hybrid Methods for forecasting book sales and modelling demand.
 
 ## 🟡 Data
-wip
+wip Sales data details
 ## 🟡 Methodology
 wip
 ## 🟡 Tools
