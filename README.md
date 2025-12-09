@@ -28,6 +28,6 @@ The data was filtered on books with sales beyond 01-07-2024, producing a list of
 * Keras/TensorFlow, KerasTuner, Hyperopt
 
 ## 🟡 Results and Findings
-* Both the weekly and monthly predictions for the XGBoost and ARIMA models were able to capture the patterns of the data, but struggled in accurately modelling the variance experienced at the peaks of the time series.
-* The evaluation scores confirmed the superiority of the Hybrid models in modelling and predicting sales volume. (to insert table)
+* Both the weekly and monthly predictions for the XGBoost and SARIMA models were able to capture the patterns of the data, but struggled in accurately modelling the variance experienced at the peaks of the time series.
+* The evaluation scores confirmed the superiority of the Hybrid models in modelling and predicting sales volumes. (to insert table)
 * The weekly predictions showed a more granular breakdown and a more accurate modelling of the paterns than the monthly, but the overall trend remained the same.
